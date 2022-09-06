@@ -1,0 +1,37 @@
+#fond
+{
+  background-color:#212121;
+}
+.custom-navbar
+{
+  margin-bottom:16px;
+  background-color:#781d3463;
+}
+label
+{
+    color:#fff;
+}
+p
+{
+  color:#fff;
+}
+.module-container
+{
+  text-align:center;
+  background-color:#131313;
+  border-radius: 5px;
+}
+.module-type-img
+{
+  width: 40;
+  height: 60;
+}
+a
+{
+  color:#fff;
+}
+a:hover
+{
+  color:#fff;
+  text-decoration:none;
+}
